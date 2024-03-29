@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Minaabbasi63
+- 👋 Hi, I’m Mina
 - 👀 I’m interested in learning front-end developing.
 - 🌱 I’m currently learning html, css, grid, flexbox
 - 💞️ I’m looking to collaborate on learning front_end developing.
